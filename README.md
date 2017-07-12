@@ -37,3 +37,31 @@ I always think more organizer conversations are better. I've seen days in this t
 joefiorini To me the tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
 rae: i’m a bit tired of the assumption that tech === startups, fwiw
+
+
+Dave: I've felt very frustrated with the community offerings here
+
+
+> I've never experienced other communities, what makes you frustrated?
+> Other than the lack of organization
+> Or I guess, what has organization other places provided that you are missing
+
+
+1.) I generally don't care what tech you used, I care what you made and how you did it
+if I wanted tech specific groups, I could go nerd out at those in Cleveland whenever
+
+but the CLE ecosystem in each of these groups isn't big enough to offer enough variety
+
+in ideas, contributions, locations, speakers etc
+
+2.) When you get to the tech specific communities, there is a sense of elitism that makes it easy to make new folks feel like they don't belong
+
+even if you don't mean to
+Introduction to GraphQL doesn't do anything for anyone except supernerds
+
+3.) Cleveland is very startup focused. I don't want to hear about your money problems anymore
+
+4.) If I have to go to X once again to see the same meetup speaking on Y where I know Z will all be there I'll need to pinch myself to make sure I'm not in the twilight zone
+
+There's this sort rigid backbone based on what I can only label as "how things have been done"
+But, I wasn't around for Burning River Dev days so I could be missing something
