@@ -11,8 +11,6 @@ The only structure the cleveland tech scene actually has is this slack channel
 
 with 84 channels, 85 now
 
-----
-
 ### Is the goal to provide a place for topics that don't fit under an established group?
 yes, that is part of it
 
@@ -34,13 +32,11 @@ Launch League has been attempting to do this for a while in Akron. We now have 5
 I always think more organizer conversations are better. I've seen days in this tech Slack where people are advertising different meetups for the same day, those collisions hurt attendance quite a bit in the more broad meetups
 
 
-joefiorini To me the tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
+joefiorini The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
 rae: i’m a bit tired of the assumption that tech === startups, fwiw
 
-
 Dave: I've felt very frustrated with the community offerings here
-
 
 > I've never experienced other communities, what makes you frustrated?
 > Other than the lack of organization
