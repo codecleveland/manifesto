@@ -19,20 +19,17 @@ yes, that is part of it
 could be a result, but not a focus or founding goal
 
 ### Is the goal to create a support network,  like a community organization?  (Lakewood Alive, Ohio City, Inc?) (edited)
-yes, that is part of it, but bigger; would be for cleveland as a whole, not just a neighborhood. adding onto that though — NEO? (including akron?) or just cleveland?
+yes, that is part of it, but bigger; would be for NEO as a whole, not just a neighborhood.
 
-making decisions requires you to have some sort of constraint; I wouldn’t be against helping a group in a completely different state if absolutely needed, but in general you need some way to express what you’re about
-
-I think NEO is a good constraint
-
+making decisions requires you to have some sort of constraint; you need some way to express what you’re about
 ---
 
 Launch League has been attempting to do this for a while in Akron. We now have 5 meetups in Akron that are all under the same umbrella. We actually have the organizers of those meetings meet quarterly just to talk through successes and failures, potential improvements, etc. I think it's been going really well for us in Akron. Our scenario consisted of a lot less traffic of course and less meetups that were competing so it naturally fit.
  
-I always think more organizer conversations are better. I've seen days in this tech Slack where people are advertising different meetups for the same day, those collisions hurt attendance quite a bit in the more broad meetups
+I always think more organizer conversations are better. **I've seen days in this tech Slack where people are advertising different meetups for the same day, those collisions hurt attendance quite a bit in the more broad meetups**
 
 
-joefiorini The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
+joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
 rae: i’m a bit tired of the assumption that tech === startups, fwiw
 
