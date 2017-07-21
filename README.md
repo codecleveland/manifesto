@@ -18,10 +18,8 @@ Just like verbal communication, there are many different methods of expressing t
 
 If you're interested in learning more about a specific language or methodology, we encourage you to dig deeper into the NEO meetups that are tech-specific and can help you grow a particular skillset.
 
-#### Beginners First
-When you get to the tech specific communities, there is a sense of elitism that makes it easy to make new folks feel like they don't belong – even if you don't mean to.
-
-Introduction to GraphQL doesn't do anything for anyone except supernerds.
+#### Inclusive
+Goal: Be welcoming to new members of the community and help them navigate the local tech scene.
 
 #### A Word about Startups
 It's pretty easy to throw around startups and tech in the same conversation, but the truth is, they're two separate beasts and should be treated as such. There's tons of support available for startups in the NEO area (think TechPint, StartMart, FlashStarts, LaunchHouse, etc.) However, not everyone wants to be a part of the Next Big Thing™ or learn how to raise seed money.
