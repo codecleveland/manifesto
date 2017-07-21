@@ -24,6 +24,7 @@ Goal: Establish one to two-day sessions based around specific objectives to allo
 Goal: Work with local bootcamps to promote their strategy and provide both the student and the bootcamp an entrypoint for tapping into NEO's dev community.
 
 #### Learning Resources
+Objective: Aggregate the most commonly-suggested learning resources to link out to as a courtesy to folks that are interested in getting a primer on a new topic.
 
 #### Happy Hour
 Goal: provide a monthly low-pressure event to connect with others that are involved in the local community.
