@@ -15,7 +15,9 @@ A support network that helps other meetups get off the ground or keep moving, an
 
 #### Branding
 #### Community Events
+#### Workshops
 #### Bootcamps
+#### Learning Resources
 #### Happy Hour
 #### Sponsors
 #### Volunteers
