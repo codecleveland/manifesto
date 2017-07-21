@@ -11,23 +11,32 @@ We believe that an active and thriving community can play a monumental role in N
 
 joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
-A support network that helps other meetups get off the ground or keep moving, and also maybe has its own events promoting the tech scene in general
-
 #### Branding
+
 #### Community Events
+
 #### Workshops
+
 #### Bootcamps
+
 #### Learning Resources
+
 #### Happy Hour
+Goal: provide a monthly low-pressure event to connect with others that are involved in the local community.
 
 #### Sponsors
 Meetups and organizations cost money. Code Cleveland is always looking for good people with some interest in being close to the Cleveland tech scene who want to help out.
 
 #### Volunteers
+
 #### Event Calendar
+
 #### Directory
+
 #### Job Board
+
 #### Meetup Groups
+Goal: help meetup groups get off the ground or keep moving by providing a tried-and-true framework to implement.
 
 ##### Venues
 - Limit driving. It's a harsh requirement, but the longer the drive, the less likely you will attend.
@@ -42,8 +51,12 @@ if you want the biggest turnout then Independence is usually the smartest plan
 problem is finding a space there that isn’t some boring conference room in the basement of a soulless building
 
 #### Newsletter
+
 #### Podcast
+Goal: Learn more about what the Cleveland community is talking about by getting folks together for a discussion on the latest happenings and opinions in NEO.
+
 #### Apparel (stickers, shirts, swag)
+Goal: Establish a sense of pride to be involved in the Cleveland tech community by providing wearables and stickables that don't look like they were designed by a developer.
 
 ### Is this just another Cleveland tech meetup group?
 
@@ -60,9 +73,7 @@ rae: i’m a bit tired of the assumption that tech === startups
 1.) I generally don't care what tech you used, I care what you made and how you did it
 if I wanted tech specific groups, I could go nerd out at those in Cleveland whenever
 
-but the CLE ecosystem in each of these groups isn't big enough to offer enough variety
-
-in ideas, contributions, locations, speakers etc
+but the CLE ecosystem in each of these groups isn't big enough to offer enough variety in ideas, contributions, locations, speakers etc
 
 2.) When you get to the tech specific communities, there is a sense of elitism that makes it easy to make new folks feel like they don't belong
 
