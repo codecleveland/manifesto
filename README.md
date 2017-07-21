@@ -23,6 +23,7 @@ A support network that helps other meetups get off the ground or keep moving, an
 #### Directory
 #### Job Board
 #### Meetup Groups
+- Venues
 #### Newsletter
 #### Podcast
 #### Apparel (stickers, shirts, swag)
