@@ -19,7 +19,10 @@ A support network that helps other meetups get off the ground or keep moving, an
 #### Bootcamps
 #### Learning Resources
 #### Happy Hour
+
 #### Sponsors
+Meetups and organizations cost money. Code Cleveland is always looking for good people with some interest in being close to the Cleveland tech scene who want to help out.
+
 #### Volunteers
 #### Event Calendar
 #### Directory
