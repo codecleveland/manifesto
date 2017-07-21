@@ -12,12 +12,16 @@ We believe that an active and thriving community can play a monumental role in N
 joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
 #### Branding
+Goal: Establish a set of communal visuals for use in related web, print, and apparel projects.
 
 #### Community Events
+Goal: Provide an outlet for the tech community to gather around a non-technical social event. Think Cedar Point, camping trip, etc.
 
 #### Workshops
+Goal: Establish one to two-day sessions based around specific objectives to allow affordable access to some of the most in-demand topics.
 
 #### Bootcamps
+Goal: Work with local bootcamps to promote their strategy and provide both the student and the bootcamp an entrypoint for tapping into NEO's dev community.
 
 #### Learning Resources
 
@@ -28,12 +32,16 @@ Goal: provide a monthly low-pressure event to connect with others that are invol
 Meetups and organizations cost money. Code Cleveland is always looking for good people with some interest in being close to the Cleveland tech scene who want to help out.
 
 #### Volunteers
+Goal: This is a lot of work. Think you can help out with any of the above or below? Let's talk.
 
 #### Event Calendar
+Goal: Keep track of the events in NEO to ensure folks have a centralized location to see what happening.
 
 #### Directory
+Goal: Provide a means of listing all of the folks active in the NEO area who wish to be involved as a community member.
 
 #### Job Board
+Goal: Allow job-seekers free access to a local job board funded by paid job postings by local companies.
 
 #### Meetup Groups
 Goal: help meetup groups get off the ground or keep moving by providing a tried-and-true framework to implement.
@@ -51,6 +59,7 @@ if you want the biggest turnout then Independence is usually the smartest plan
 problem is finding a space there that isn’t some boring conference room in the basement of a soulless building
 
 #### Newsletter
+Goal: Keep the community up-to-date with the latest events, news, and happenings in the NEO area.
 
 #### Podcast
 Goal: Learn more about what the Cleveland community is talking about by getting folks together for a discussion on the latest happenings and opinions in NEO.
