@@ -61,6 +61,9 @@ Goal: Provide a means of listing all of the folks active in the NEO area who wis
 #### Job Board
 Goal: Allow job-seekers free access to a local job board funded by paid job postings by local companies.
 
+#### Coworking Spaces
+Objective: Provide a list of all of the active partner and participating co-working spaces in the area as a resource for those looking for a place to call their office for the day or month. Potentially provide discounts to folks being referred through.
+
 #### Meetup Groups
 Goal: help meetup groups get off the ground or keep moving by providing a tried-and-true framework to implement.
 
