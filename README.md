@@ -1,3 +1,13 @@
+> “You take too much of a black and white view.”
+
+> If our tone seems too know-it-allish, bear with us. We think it’s
+> better to present ideas in bold strokes than to be wishy-washy
+> about it. If that comes off as cocky or arrogant, so be it. We’d
+> rather be provocative than water everything down with “it
+> depends...” Of course there will be times when these rules need
+> to be stretched or broken. And some of these tactics may not
+> apply to your situation. Use your judgement and imagination.
+
 **Code Cleveland** is a collective effort to foster the local tech community by providing support and structure to the people of Northeast Ohio.
 
 We believe that an active and thriving community can play a monumental role in NEO's success by helping to:
