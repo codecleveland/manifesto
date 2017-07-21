@@ -28,7 +28,19 @@ Meetups and organizations cost money. Code Cleveland is always looking for good 
 #### Directory
 #### Job Board
 #### Meetup Groups
-- Venues
+
+##### Venues
+- Limit driving. It's a harsh requirement, but the longer the drive, the less likely you will attend.
+- Centrally located.
+
+joshreedschramm: rotation can work pretty well. clerb, for a while (may still) had normal meetups and hack days and the hack days rotated
+
+anthony: Our current office has a good size space for meetups, and a parking lot (the parking lot thing is a hang up for some people)
+
+if you want the biggest turnout then Independence is usually the smartest plan
+
+problem is finding a space there that isn’t some boring conference room in the basement of a soulless building
+
 #### Newsletter
 #### Podcast
 #### Apparel (stickers, shirts, swag)
@@ -37,16 +49,6 @@ Meetups and organizations cost money. Code Cleveland is always looking for good 
 
 No! The last thing Cleveland needs is another meetup (although I am sure we will meetup :slightly_smiling_face:)
 The only structure the cleveland tech scene actually has is this slack team with 85 channels.
-
-### Is the goal to provide a place for topics that don't fit under an established group?
-yes, that is part of it
-
-### Is the goal to provide another "venue" for those topics that might fit under an established group that doesn't meet regularly?
-
-could be a result, but not a focus or founding goal
-
-### Is the goal to create a support network,  like a community organization?  (Lakewood Alive, Ohio City, Inc?)
-yes, that is part of it, but bigger; would be for NEO as a whole, not just a neighborhood.
 
 #### Launch League
 Launch League has been attempting to do this for a while in Akron. We now have 5 meetups in Akron that are all under the same umbrella. We actually have the organizers of those meetings meet quarterly just to talk through successes and failures, potential improvements, etc. I think it's been going really well for us in Akron. Our scenario consisted of a lot less traffic of course and less meetups that were competing so it naturally fit.
