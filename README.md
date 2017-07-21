@@ -1,15 +1,36 @@
+**Code Cleveland** is a collective effort to foster the local tech community by providing support and structure to the people of Northeast Ohio.
 
-“Bringing developers and designers together for two days of hands on code & design talks” -> I think there should be something that is higher level, almost a support network that helps other meetups get off the ground or keep moving, and also maybe has its own events promoting the tech scene in general
+We believe that an active and thriving community can play a monumental role in NEO's success by helping to:
 
+- promote the local economy
+- create and fill jobs
+- connect like-minded individuals
+- improve Cleveland's public image
+- attract new and prior talent
+- provide a natural entry point for beginners
 
-### Is the goal to create another regularly scheduled meetup?
+joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
 
-rae.krantz: no, that is too narrow of a goal; that may be a result, but is not the goal in and of itself
+A support network that helps other meetups get off the ground or keep moving, and also maybe has its own events promoting the tech scene in general
+
+#### Branding
+#### Community Events
+#### Bootcamps
+#### Happy Hour
+#### Sponsors
+#### Volunteers
+#### Event Calendar
+#### Directory
+#### Job Board
+#### Meetup Groups
+#### Newsletter
+#### Podcast
+#### Apparel (stickers, shirts, swag)
+
+### Is this just another Cleveland tech meetup group?
 
 No! The last thing Cleveland needs is another meetup (although I am sure we will meetup :slightly_smiling_face:)
-The only structure the cleveland tech scene actually has is this slack channel
-
-with 84 channels, 85 now
+The only structure the cleveland tech scene actually has is this slack team with 85 channels.
 
 ### Is the goal to provide a place for topics that don't fit under an established group?
 yes, that is part of it
@@ -18,27 +39,15 @@ yes, that is part of it
 
 could be a result, but not a focus or founding goal
 
-### Is the goal to create a support network,  like a community organization?  (Lakewood Alive, Ohio City, Inc?) (edited)
+### Is the goal to create a support network,  like a community organization?  (Lakewood Alive, Ohio City, Inc?)
 yes, that is part of it, but bigger; would be for NEO as a whole, not just a neighborhood.
 
-making decisions requires you to have some sort of constraint; you need some way to express what you’re about
----
-
+#### Launch League
 Launch League has been attempting to do this for a while in Akron. We now have 5 meetups in Akron that are all under the same umbrella. We actually have the organizers of those meetings meet quarterly just to talk through successes and failures, potential improvements, etc. I think it's been going really well for us in Akron. Our scenario consisted of a lot less traffic of course and less meetups that were competing so it naturally fit.
  
 I always think more organizer conversations are better. **I've seen days in this tech Slack where people are advertising different meetups for the same day, those collisions hurt attendance quite a bit in the more broad meetups**
 
-
-joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
-
-rae: i’m a bit tired of the assumption that tech === startups, fwiw
-
-Dave: I've felt very frustrated with the community offerings here
-
-> I've never experienced other communities, what makes you frustrated?
-> Other than the lack of organization
-> Or I guess, what has organization other places provided that you are missing
-
+rae: i’m a bit tired of the assumption that tech === startups
 
 1.) I generally don't care what tech you used, I care what you made and how you did it
 if I wanted tech specific groups, I could go nerd out at those in Cleveland whenever
@@ -57,4 +66,3 @@ Introduction to GraphQL doesn't do anything for anyone except supernerds
 4.) If I have to go to X once again to see the same meetup speaking on Y where I know Z will all be there I'll need to pinch myself to make sure I'm not in the twilight zone
 
 There's this sort rigid backbone based on what I can only label as "how things have been done"
-But, I wasn't around for Burning River Dev days so I could be missing something
