@@ -30,7 +30,7 @@ Just like verbal communication, there are many different methods of expressing t
 
 If you're interested in learning more about a specific language or methodology, we encourage you to dig deeper into the NEO meetups that are tech-specific and can help you grow a particular skillset.
 
-### Inclusive
+### Diversity and Inclusiveness
 Objective: Be welcoming to new members of the community and help them navigate the local tech scene.
 
 ## Objectives
