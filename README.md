@@ -10,7 +10,7 @@
 
 # Code Cleveland Manifesto
 
-**Code Cleveland** is a collective effort to foster the local tech community by providing support and structure to the people of Northeast Ohio.
+**Code Cleveland** is a collective effort focused on fostering the local tech community by providing support and structure to the people of Northeast Ohio.
 
 We believe that an active and thriving community can play a monumental role in NEO's success by helping to:
 
