@@ -33,11 +33,6 @@ If you're interested in learning more about a specific language or methodology, 
 ### Inclusive
 Objective: Be welcoming to new members of the community and help them navigate the local tech scene.
 
-### A Word about Startups
-It's pretty easy to throw around startups and tech in the same conversation, but the truth is, they're two separate beasts and should be treated as such. There's tons of support available for startups in the NEO area (think TechPint, StartMart, FlashStarts, LaunchHouse, etc.) However, not everyone wants to be a part of the Next Big Thing™ or learn how to raise seed money.
-
-We're glad to support NEO's startup culture, but it is important for the community to be cognizant of this distinction up front.
-
 ## Objectives
 
 ### Branding
@@ -70,6 +65,9 @@ _want to help coordinate this? [submit a pull request](https://github.com/codecl
 
 ### Meetup Groups
 Objective: help meetup groups get off the ground or keep moving by providing a tried-and-true framework to implement.
+
+- Organizer conversations to provide feedback
+- Preventing clashing meetup dates to maximize attendance.
 
 #### Venues
 - Limit driving. It's a harsh requirement, but the longer the drive, the less likely people will attend.
@@ -121,6 +119,9 @@ _want to help coordinate this? [submit a pull request](https://github.com/codecl
 ## Call for Volunteers
 This is a big project and is lot of work. Think you can help out with any of the above? Open up a new issue and let's talk.
 
+## Join the Discussion
+Code Cleveland is primarily discussed in the [Cleveland Tech Slack team in the #codecleveland channel.](http://cleveland-tech.herokuapp.com/)
+
 ## Questions
 
 ### Is this just another Cleveland tech meetup group?
@@ -128,7 +129,8 @@ This is a big project and is lot of work. Think you can help out with any of the
 No! The last thing Cleveland needs is another meetup (although I am sure we will meetup :slightly_smiling_face:)
 The only structure the cleveland tech scene actually has is this slack team with 85 channels.
 
-## Launch League
-Launch League has been attempting to do this for a while in Akron. We now have 5 meetups in Akron that are all under the same umbrella. We actually have the organizers of those meetings meet quarterly just to talk through successes and failures, potential improvements, etc. I think it's been going really well for us in Akron. Our scenario consisted of a lot less traffic of course and less meetups that were competing so it naturally fit.
+### Aren't there other startup support groups in Cleveland?
+It's pretty easy to throw around startups and tech in the same conversation, but the truth is, they're two separate beasts and should be treated as such. There's tons of support available for startups in the NEO area (think TechPint, StartMart, FlashStarts, LaunchHouse, etc.) However, not everyone wants to be a part of the Next Big Thing™ or learn how to raise seed money.
+
+We're glad to support NEO's startup culture, but it is important for the community to be cognizant of this distinction up front.
  
-I always think more organizer conversations are better. **I've seen days in this tech Slack where people are advertising different meetups for the same day, those collisions hurt attendance quite a bit in the more broad meetups**
