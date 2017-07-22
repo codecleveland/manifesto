@@ -43,62 +43,85 @@ We're glad to support NEO's startup culture, but it is important for the communi
 ### Branding
 Objective: Establish a set of communal visuals for use in related web, print, and apparel projects.
 
-### Community Events
-Objective: Provide an outlet for the tech community to gather around a non-technical social event. Think Cedar Point, camping trip, etc.
-
-### Workshops
-Objective: Establish one to two-day sessions based around specific objectives to allow affordable access to some of the most in-demand topics.
-
-### Bootcamps
-Objective: Work with local bootcamps to promote their strategy and provide both the student and the bootcamp an entrypoint for tapping into NEO's dev community.
-
-### Learning Resources
-Objective: Aggregate the most commonly-suggested learning resources to link out to as a courtesy to folks that are interested in getting a primer on a new topic.
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Happy Hour
 Objective: provide a monthly low-pressure event to connect with others that are involved in the local community.
 
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
 ### Sponsors
 Meetups and organizations cost money. Code Cleveland is always looking for good people with some interest in being close to the Cleveland tech scene who want to help out.
 
-### Volunteers
-Objective: This is a lot of work. Think you can help out with any of the above or below? Let's talk.
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Event Calendar
 Objective: Keep track of the events in NEO to ensure folks have a centralized location to see what happening.
 
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
 ### Directory
 Objective: Provide a means of listing all of the folks active in the NEO area who wish to be involved as a community member.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Job Board
 Objective: Allow job-seekers free access to a local job board funded by paid job postings by local companies.
 
-### Coworking Spaces
-Objective: Provide a list of all of the active partner and participating co-working spaces in the area as a resource for those looking for a place to call their office for the day or month. Potentially provide discounts to folks being referred through.
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Meetup Groups
 Objective: help meetup groups get off the ground or keep moving by providing a tried-and-true framework to implement.
 
 #### Venues
-- Limit driving. It's a harsh requirement, but the longer the drive, the less likely you will attend.
-- Centrally located.
+- Limit driving. It's a harsh requirement, but the longer the drive, the less likely people will attend.
+- Centrally located (Independence is a good suggestion for hosting a meetup, but it'd be smart to find a building that has a bit of character which may be tough to find.)
+- Rotate between several different locations.
 
-joshreedschramm: rotation can work pretty well. clerb, for a while (may still) had normal meetups and hack days and the hack days rotated
-
-anthony: Our current office has a good size space for meetups, and a parking lot (the parking lot thing is a hang up for some people)
-
-if you want the biggest turnout then Independence is usually the smartest plan
-
-problem is finding a space there that isn’t some boring conference room in the basement of a soulless building
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Newsletter
-Goal: Keep the community up-to-date with the latest events, news, and happenings in the NEO area.
+Objective: Keep the community up-to-date with the latest events, news, and happenings in the NEO area.
 
-### Podcast
-Goal: Learn more about what the Cleveland community is talking about by getting folks together for a discussion on the latest happenings and opinions in NEO.
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Community Events
+Objective: Provide an outlet for the tech community to gather around a non-technical social event. Think Cedar Point, camping trip, etc.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
 
 ### Apparel (stickers, shirts, swag)
-Goal: Establish a sense of pride to be involved in the Cleveland tech community by providing wearables and stickables that don't look like they were designed by a developer.
+Objective: Establish a sense of pride to be involved in the Cleveland tech community by providing wearables and stickables that don't look like they were designed by a developer.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Coworking Spaces
+Objective: Provide a list of all of the active partner and participating co-working spaces in the area as a resource for those looking for a place to call their office for the day or month. Potentially provide discounts to folks being referred through.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Workshops
+Objective: Establish one to two-day sessions based around specific objectives to allow affordable access to some of the most in-demand topics.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Bootcamps
+Objective: Work with local bootcamps to promote their strategy and provide both the student and the bootcamp an entrypoint for tapping into NEO's dev community.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Learning Resources
+Objective: Aggregate the most commonly-suggested learning resources to link out to as a courtesy to folks that are interested in getting a primer on a new topic.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+### Podcast
+Objective: Learn more about what the Cleveland community is talking about by getting folks together for a discussion on the latest happenings and opinions in NEO.
+
+_want to help coordinate this? [#fork-destination-box](submit a pull request)_
+
+## Call for Volunteers
+This is a big project and is lot of work. Think you can help out with any of the above? Open up a new issue and let's talk.
 
 ## Questions
 
