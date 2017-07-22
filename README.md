@@ -31,7 +31,7 @@ Just like verbal communication, there are many different methods of expressing t
 If you're interested in learning more about a specific language or methodology, we encourage you to dig deeper into the NEO meetups that are tech-specific and can help you grow a particular skillset.
 
 ### Diversity and Inclusiveness
-Be welcoming to new members of the community and help them navigate the local tech scene.
+We welcome and encourage new members of all skill levels to join the community and hope to empower all those interested in learning more about code and other facets within the tech community. 
 
 ### Each One Teach One
 Share what you know.
