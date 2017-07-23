@@ -83,6 +83,11 @@ Objective: help meetup groups get off the ground or keep moving by providing a t
 - Centrally located (Independence is a good suggestion for hosting a meetup, but it'd be smart to find a building that has a bit of character which may be tough to find.)
 - Rotate between several different locations.
 
+#### Childcare
+- Provide childcare for meetups when requested so as to remove barriers for attendance.
+- Childcare isn’t commonly requested, so it’s often not something the average meetup organizer can't put a comparative amount of time into for one or two meetups out of the year. If a central organization ran it for the collective of area meetup groups, it could be more beneficial.
+- It should be free for attendees if food is free; if food is paid for by attendees it could also be paid.
+
 _want to help coordinate this? [submit a pull request](https://github.com/codecleveland/manifesto/fork)_
 
 ### Newsletter
