@@ -57,6 +57,15 @@ _want to help coordinate this? [submit a pull request](https://github.com/codecl
 ### Sponsors
 Meetups and organizations cost money. Code Cleveland is always looking for good people with some interest in being close to the Cleveland tech scene who want to help out.
 
+#### Incidental costs
+- Site Hosting **$5/month** (sponsored by Cuyahoga Valley Code Shop)
+- Domain Registration **$25/year** (sponsored by Cuyahoga Valley Code Shop)
+
+#### Sponsorship opportunities
+- Meetup.com **$15/month**
+- Branding Labor **$1,000**
+- Website additional feature products **$500**
+
 _want to help coordinate this? [submit a pull request](https://github.com/codecleveland/manifesto/fork)_
 
 ### Website
