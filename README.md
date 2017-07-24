@@ -82,6 +82,7 @@ Objective: help meetup groups get off the ground or keep moving by providing a t
 - Limit driving. It's a harsh requirement, but the longer the drive, the less likely people will attend.
 - Centrally located (Independence is a good suggestion for hosting a meetup, but it'd be smart to find a building that has a bit of character which may be tough to find.)
 - Rotate between several different locations.
+- Tag places that can stream or record speakers and equipment on loan/lease for that
 
 _want to help coordinate this? [submit a pull request](https://github.com/codecleveland/manifesto/fork)_
 
