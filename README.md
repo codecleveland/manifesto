@@ -10,7 +10,7 @@
 
 # Code Cleveland Manifesto
 
-**Code Cleveland** is a collective effort focused on fostering the local tech community by providing support and structure to the people of Northeast Ohio.
+**Code Cleveland** is a collective effort focused on fostering the local tech community by providing support and structure to the people of Northeast Ohio. To be clear, the tech community means more than just programmers! It's anyone involved in the business of technology.
 
 We believe that an active and thriving community can play a monumental role in NEO's success by helping to:
 
@@ -21,8 +21,6 @@ We believe that an active and thriving community can play a monumental role in N
 - attract new and prior talent
 - provide a natural entry point for beginners
 
-joefiorini: The tech community means more than just programmers; it’s anyone involved in the business of technology (which typically means software, but _could_ mean hardware as well)
-
 ## Core Principles
 
 ### Process over Prowess
@@ -31,7 +29,8 @@ Just like verbal communication, there are many different methods of expressing t
 If you're interested in learning more about a specific language or methodology, we encourage you to dig deeper into the NEO meetups that are tech-specific and can help you grow a particular skillset.
 
 ### Diversity and Inclusiveness
-We welcome and encourage new members of all skill levels to join the community and hope to empower all those interested in learning more about code and other facets within the tech community. 
+We welcome and encourage members races, genders, ages, backgrounds, and of all skill levels to be a part of the community.
+Members agree to adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ### Each One Teach One
 Share what you know.
@@ -49,7 +48,7 @@ Objective: Establish a set of communal visuals for use in related web, print, an
 
 _want to help coordinate this? [submit a pull request](https://github.com/codecleveland/manifesto/fork)_
 
-### Happy Hour
+### Monthly Events
 Objective: provide a monthly low-pressure event to connect with others that are involved in the local community.
 
 _want to help coordinate this? [submit a pull request](https://github.com/codecleveland/manifesto/fork)_
