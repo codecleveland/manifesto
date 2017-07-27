@@ -29,7 +29,7 @@ Just like verbal communication, there are many different methods of expressing t
 If you're interested in learning more about a specific language or methodology, we encourage you to dig deeper into the NEO meetups that are tech-specific and can help you grow a particular skillset.
 
 ### Diversity and Inclusiveness
-We welcome and encourage members races, genders, ages, backgrounds, and of all skill levels to be a part of the community.
+We welcome and encourage members of all races, genders, ages, backgrounds, and skill levels to be a part of the community.
 Members agree to adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ### Each One Teach One
